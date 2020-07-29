@@ -98,3 +98,4 @@ $ npm start
  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- Copyright 2020 © **Facundo Zerpa**
