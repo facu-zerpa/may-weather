@@ -91,6 +91,7 @@ $ npm start
 - [He](https://www.npmjs.com/package/he)
 - [Plotly](https://www.npmjs.com/package/plotly.js/v/1.47.4)
 - [PropTypes](https://www.npmjs.com/package/prop-types)
+- [Bootstrap](https://getbootstrap.com/)
 
 ## License
 
